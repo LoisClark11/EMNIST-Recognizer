@@ -1,0 +1,14 @@
+# Data files (Too large for GitHub)
+*.csv
+
+# Python scripts you aren't using for the web app
+DR&KNN*.py
+outputs/
+
+# System files
+desktop.ini
+.DS_Store
+
+# Python environment/cache
+__pycache__/
+.venv/
